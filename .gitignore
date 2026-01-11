@@ -2,6 +2,7 @@
 data/
 features/
 indexes/
+results/
 
 # Python
 __pycache__/
