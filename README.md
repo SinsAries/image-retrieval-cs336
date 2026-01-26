@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # 🖼️ Image Retrieval System
 
 **CS336: Multimedia Information Retrieval 2025**
